@@ -17,5 +17,5 @@ In order to recognize the LED Shield, it's necesary to add Adafruit Neopixel lib
 
 
 ## Ejer 05_IFTTT
-Using a Button Shield in Wemos a pizza delivery must be requested. In order to do this, the button should invoke a GET URL from Webhooks that active a new GET Petition to https://api.thingspeak.com/update?api_key=0BRH5WGEXL7NRXP3&field1=PIZZA.
+Using a Button Shield in Wemos a pizza delivery must be requested. In order to do this, the button should invoke a GET URL from Webhooks that active a new GET Petition to https://api.thingspeak.com/update?api_key=0BRH5WGEXL7NRXP3&field1=PIZZA. You will need to calculate Fingerprinting of Webhooks URL using the web platform: https://www.grc.com/fingerprints.htm
 
