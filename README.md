@@ -15,3 +15,7 @@ In order to recognize the LED Shield, it's necesary to add Adafruit Neopixel lib
 1. Sketch -> Include Library -> Manage Libraries -> "Adafruit Neopixel" -> Adafruit Neopixel by Adafruit (Arduino Library for controlling Simple-wire based LED pixels and strip)
 [![Instalar nueva librería](https://j.gifs.com/0VRV9X.gif)](https://www.youtube.com/watch?v=RzLoHEC_0e8)
 
+
+## Ejer 05_IFTTT
+Using a Button Shield in Wemos a pizza delivery must be requested. In order to do this, the button should invoke a GET URL from Webhooks that active a new GET Petition to https://api.thingspeak.com/update?api_key=0BRH5WGEXL7NRXP3&field1=PIZZA.
+
